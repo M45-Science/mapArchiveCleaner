@@ -1,1 +1,1 @@
-Doesn't save enough space to be worth it, but was interesting anyway.
+Doesn't save a lot of room, but still useful for removing old softmods and the like.
